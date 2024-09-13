@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F94D51EC-0605-4B03-9805-6E02AE0520D1}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|d:\\cursos\\microservices\\erudio-microservices-dotnet\\geekshopping\\geekshopping\\geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F94D51EC-0605-4B03-9805-6E02AE0520D1}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D754EFE7-141B-4FE8-A98B-4F6276B24446}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|d:\\cursos\\microservices\\erudio-microservices-dotnet\\geekshopping\\geekshopping\\geekshopping.identityserver\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D754EFE7-141B-4FE8-A98B-4F6276B24446}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver\\configuration\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F94D51EC-0605-4B03-9805-6E02AE0520D1}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|d:\\cursos\\microservices\\erudio-microservices-dotnet\\geekshopping\\geekshopping\\geekshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F94D51EC-0605-4B03-9805-6E02AE0520D1}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F94D51EC-0605-4B03-9805-6E02AE0520D1}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|d:\\cursos\\microservices\\erudio-microservices-dotnet\\geekshopping\\geekshopping\\geekshopping.productapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F94D51EC-0605-4B03-9805-6E02AE0520D1}|GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj|solutionrelative:geekshopping.productapi\\config\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D754EFE7-141B-4FE8-A98B-4F6276B24446}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|d:\\cursos\\microservices\\erudio-microservices-dotnet\\geekshopping\\geekshopping\\geekshopping.identityserver\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D754EFE7-141B-4FE8-A98B-4F6276B24446}|GeekShopping.IdentityServer\\GeekShopping.IdentityServer.csproj|solutionrelative:geekshopping.identityserver\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,40 +51,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
-              "ToolTip": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Repository\\ProductRepository.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwA8AAAA1AAAA",
+              "Title": "IdentityConfiguration.cs",
+              "DocumentMoniker": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\GeekShopping.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "ToolTip": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\GeekShopping.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "RelativeToolTip": "GeekShopping.IdentityServer\\Configuration\\IdentityConfiguration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAQwCoAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T00:30:30.338Z",
+              "WhenOpened": "2024-09-13T00:24:24.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\GeekShopping.ProductAPI\\Program.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Program.cs",
-              "ToolTip": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\GeekShopping.ProductAPI\\Program.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABIAAAA",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\GeekShopping.IdentityServer\\MainModule\\Account\\AccountController.cs",
+              "RelativeDocumentMoniker": "GeekShopping.IdentityServer\\MainModule\\Account\\AccountController.cs",
+              "ToolTip": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\GeekShopping.IdentityServer\\MainModule\\Account\\AccountController.cs",
+              "RelativeToolTip": "GeekShopping.IdentityServer\\MainModule\\Account\\AccountController.cs",
+              "ViewState": "AQIAAFQBAAAAAAAAAAAYwHsBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T00:25:40.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MappingConfig.cs",
-              "DocumentMoniker": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
-              "RelativeDocumentMoniker": "GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
-              "ToolTip": "D:\\Cursos\\Microservices\\erudio-microservices-dotnet\\GeekShopping\\GeekShopping\\GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
-              "RelativeToolTip": "GeekShopping.ProductAPI\\Config\\MappingConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-10T00:23:38.134Z",
+              "WhenOpened": "2024-09-13T00:22:50.066Z",
               "EditorCaption": ""
             }
           ]

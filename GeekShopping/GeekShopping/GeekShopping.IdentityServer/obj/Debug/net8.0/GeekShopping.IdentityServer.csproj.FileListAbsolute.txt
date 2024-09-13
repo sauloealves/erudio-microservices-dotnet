@@ -1,0 +1,10 @@
+D:\Cursos\Microservices\erudio-microservices-dotnet\GeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.csproj.AssemblyReference.cache
+D:\Cursos\Microservices\erudio-microservices-dotnet\GeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Microservices\erudio-microservices-dotnet\GeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.AssemblyInfoInputs.cache
+D:\Cursos\Microservices\erudio-microservices-dotnet\GeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.AssemblyInfo.cs
+D:\Cursos\Microservices\erudio-microservices-dotnet\GeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.csproj.CoreCompileInputs.cache
+D:\Cursos\Microservices\erudio-microservices-dotnet\GeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Cursos\Microservices\erudio-microservices-dotnet\GeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Cursos\Microservices\erudio-microservices-dotnet\GeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cache
+D:\Cursos\Microservices\erudio-microservices-dotnet\GeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.RazorAssemblyInfo.cs
+D:\Cursos\Microservices\erudio-microservices-dotnet\GeekShopping\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net8.0\GeekShopping.IdentityServer.sourcelink.json
